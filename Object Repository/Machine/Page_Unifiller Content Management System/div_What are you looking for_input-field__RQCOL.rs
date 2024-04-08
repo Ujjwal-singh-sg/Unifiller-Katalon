@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_What are you looking for_input-field__RQCOL</name>
+   <tag></tag>
+   <elementGuidId>68f574cd-c840-4bd7-839a-ed9c2299b9f3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-field__RQCOL</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^What are you looking for:$/ >> div >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>911f5eb4-8854-4791-8209-b53ff0043186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-field__RQCOL</value>
+      <webElementGuid>7d262ef7-95f4-4c9a-bd2b-20fb7879e216</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pageWrapper&quot;]/div[@class=&quot;resultsListHeader__KK1hJ&quot;]/div[@class=&quot;resultsListHeaderMiddle__rCSMu&quot;]/div[@class=&quot;resultsListSearchWrapper__HcNKW&quot;]/div[1]/div[@class=&quot;input-field__RQCOL&quot;]</value>
+      <webElementGuid>f6a52600-91fa-43b9-bf8e-279e73e0139c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>d80b14c9-d19d-4f94-a12d-a04af593111e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='What are you looking for:'])[1]/following::div[3]</value>
+      <webElementGuid>9bcc4fcc-0cd9-4fd7-8a52-c904a952ce33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[1]/following::div[4]</value>
+      <webElementGuid>d8e115d0-20b9-4ad0-8943-6294e63578bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MultiStation 2023'])[1]/preceding::div[3]</value>
+      <webElementGuid>7b83c8ff-912e-4817-b581-15c0056e9520</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>c0b3d979-4378-4536-b49d-8f3fb8a7aa79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

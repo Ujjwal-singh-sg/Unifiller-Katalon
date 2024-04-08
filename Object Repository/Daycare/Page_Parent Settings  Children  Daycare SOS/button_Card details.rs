@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Card details</name>
+   <tag></tag>
+   <elementGuidId>893e4132-c233-4144-809d-02fce94d7590</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Card details&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0082c437-ad1d-4ebc-a729-9d32ec89522c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8a68b9d7-f5de-40ec-a8cd-99acb1bfdf4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>settings-wrapper_tab-links__xT6M3 button_btn__FBLjm button_primary-btn__wVvvb</value>
+      <webElementGuid>31945065-b8ed-4de1-9564-660a61cffab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Card details</value>
+      <webElementGuid>209a346a-6f71-4edc-8720-4d1824a4256c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout_layout-wrapper__Voyyt&quot;]/div[1]/section[@class=&quot;page-wrapper_page-wrapper___qdV9&quot;]/main[@class=&quot;main-content-wrapper_main-content-wrapper__VIkiy&quot;]/div[@class=&quot;settings-wrapper_header-title-wrapper__ySjae&quot;]/div[@class=&quot;settings-wrapper_tabs-wrapper__I_sdG&quot;]/ul[@class=&quot;settings-wrapper_tabs__pQzfB&quot;]/li[@class=&quot;settings-wrapper_link-wrapper__yST0S&quot;]/a[1]/button[@class=&quot;settings-wrapper_tab-links__xT6M3 button_btn__FBLjm button_primary-btn__wVvvb&quot;]</value>
+      <webElementGuid>f9c20eee-b75c-4520-9cde-4ee65d4c787d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>74a11d1f-c4b6-4e8d-9540-413db022473a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/section/main/div/div/ul/li[3]/a/button</value>
+      <webElementGuid>7cf5974f-e1e7-4c1a-a10a-66783acaf4e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Children'])[1]/following::button[1]</value>
+      <webElementGuid>027d2694-0972-4ef9-9909-0a923465338e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account details'])[1]/following::button[2]</value>
+      <webElementGuid>7d05efd3-de72-494e-8918-e481d0f93f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bank details'])[1]/preceding::button[1]</value>
+      <webElementGuid>c60a504c-e9ba-4e45-bf66-15d4d5a927fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms &amp; conditions'])[1]/preceding::button[2]</value>
+      <webElementGuid>125677e0-7fd4-4205-abdb-97e7edb28638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/button</value>
+      <webElementGuid>d4de5842-292d-4aa0-a8fb-6aa382444ec3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Card details' or . = 'Card details')]</value>
+      <webElementGuid>7ff6707d-5a0b-4496-a48e-83fcc93e9c28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_new subcat  V70Curtis Schamberger  new _1fcd7e</name>
+   <tag></tag>
+   <elementGuidId>f1ee4c0a-b103-48b0-b8b3-5edf0ecf5155</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.innerWrapper__nKtim</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollableDiv']/div/div/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^new subcat • V70Curtis Schamberger • new cat1 name change$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d1213ad1-9662-4138-9cd0-24902643b742</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>innerWrapper__nKtim</value>
+      <webElementGuid>7c6f2260-4af4-421f-beed-4337ca47161e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>new subcat • V70Curtis Schamberger • new cat1 name change</value>
+      <webElementGuid>68283333-f4c7-4ee8-9bf7-a130a9d8a667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollableDiv&quot;)/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component cardsContainer__umG0f&quot;]/span[@class=&quot;card__UE6m0&quot;]/div[@class=&quot;innerWrapper__nKtim&quot;]</value>
+      <webElementGuid>271b0362-382a-4f3e-80e5-7f285d0dc0d5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollableDiv']/div/div/span/div</value>
+      <webElementGuid>9d2f766c-ffdb-4f5e-9a16-385404183ef4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Version Decremental'])[1]/following::div[6]</value>
+      <webElementGuid>5551c203-9947-464e-871c-9c00170b0a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Filters'])[1]/following::div[14]</value>
+      <webElementGuid>2a2f93ce-7436-4546-b35e-e9443f575470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='subcat244 • v24'])[1]/preceding::div[6]</value>
+      <webElementGuid>1babcae7-e773-4bf6-ada2-47267be274e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>aaacd2b3-8539-4eb7-a31b-ec4e8b4a0b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'new subcat • V70Curtis Schamberger • new cat1 name change' or . = 'new subcat • V70Curtis Schamberger • new cat1 name change')]</value>
+      <webElementGuid>8f157fbc-2fd7-4c69-a8aa-832d98f85f51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

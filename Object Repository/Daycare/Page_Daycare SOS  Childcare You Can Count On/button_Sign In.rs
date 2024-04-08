@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sign In</name>
+   <tag></tag>
+   <elementGuidId>12ce7f82-1cea-4c19-aa81-88542ccb7a5b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button_btn__FBLjm.button_primary-btn__wVvvb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Sign In&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d0718fcf-7982-4f1e-af7c-434636843e5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>59500bd4-11e1-4162-a6fc-308e1cff2063</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button_btn__FBLjm button_primary-btn__wVvvb</value>
+      <webElementGuid>2c7ecd1e-e982-41a0-b7ea-e4c3b6e08a3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>04cb7de6-0662-4e65-b87e-40e6816c9068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;modal&quot;]/article[@class=&quot;common-modal_register-login-modal-wrapper__8ob8K modal-animation_modal-container__3bfC_ modal-animation_pre-login-modal__k1iGa&quot;]/div[@class=&quot;modal-animation_modal-scrollable__gwyes&quot;]/div[@class=&quot;common-modal_register-login-modal-content__eh8IV&quot;]/div[@class=&quot;common-modal_right-section__UbetZ&quot;]/div[@class=&quot;common-modal_right-bottom-section__Ywf3S&quot;]/form[@class=&quot;common-modal_register-login-form__aiasl&quot;]/div[@class=&quot;common-modal_submit-wrapper__rhTHV&quot;]/button[@class=&quot;button_btn__FBLjm button_primary-btn__wVvvb&quot;]</value>
+      <webElementGuid>fc9dc7d7-2f54-459e-8c56-17d9f531c831</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>62c3d7bc-dcb5-470f-92c2-79a8b28d30f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/article/div/div/div/div[2]/form/div[3]/button</value>
+      <webElementGuid>2beacd7c-e709-4fe6-b4b6-a40745f4a8d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::button[2]</value>
+      <webElementGuid>1c95b95f-3386-42ec-a82c-a8fffb2cea15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::button[2]</value>
+      <webElementGuid>bef19b81-7007-4afc-b33d-8b4baed594b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot password ?'])[1]/preceding::button[1]</value>
+      <webElementGuid>8a6f06e7-722e-408d-a32a-74132b35c417</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FOR COMPANIES'])[2]/preceding::button[3]</value>
+      <webElementGuid>9aad9b16-fe96-4f4e-9103-44f104a348e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign In']/parent::*</value>
+      <webElementGuid>e0bde4c0-6973-496d-a9f4-42d65cca4659</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>8adab154-c2a5-4074-a9d9-a44a4709231d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Sign In' or . = 'Sign In')]</value>
+      <webElementGuid>4eaeea23-7ab9-4bf0-b850-1f46bebaf7d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

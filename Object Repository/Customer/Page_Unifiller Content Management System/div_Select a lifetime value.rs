@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select a lifetime value</name>
+   <tag></tag>
+   <elementGuidId>cba0b3d5-eb3a-4fcf-ab26-0c7f9fa8a3ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-18y7qp5-control > div.css-hlgwow</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='lifetimeValue-dropdown']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Select a lifetime value$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4964797a-a93d-49d5-a5bf-259e31e9fa45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-hlgwow</value>
+      <webElementGuid>5e93266e-3852-4baf-b90a-29afe7cad0c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select a lifetime value</value>
+      <webElementGuid>3353bbbd-79f5-4f97-b742-76fdbc4a5684</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;lifetimeValue-dropdown&quot;)/div[@class=&quot;css-18y7qp5-control&quot;]/div[@class=&quot;css-hlgwow&quot;]</value>
+      <webElementGuid>f5b38b79-bd7c-44fc-8a0f-c8aa15a396e3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='lifetimeValue-dropdown']/div/div</value>
+      <webElementGuid>dc6625ea-56c3-408e-a23d-93b5118293ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enterprise (Trial)'])[1]/following::div[9]</value>
+      <webElementGuid>db398b5d-febe-46da-b3c3-0f8e65001207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div</value>
+      <webElementGuid>d0fbfe0f-571b-48bf-9643-608f7cf47882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Select a lifetime value' or . = 'Select a lifetime value')]</value>
+      <webElementGuid>0f352ad1-ea86-44b3-bde9-6ca5053a5056</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

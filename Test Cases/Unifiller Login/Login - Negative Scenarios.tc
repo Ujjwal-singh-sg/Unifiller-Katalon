@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login - Negative Scenarios</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc4a2a94-6419-4d60-81f9-548d2be71e89</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c031fb26-9e9c-481b-8904-fd26b6972d90</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/login credentials</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>c031fb26-9e9c-481b-8904-fd26b6972d90</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>bfad3ba1-6bce-4fe7-89b4-4eec592318b2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>c031fb26-9e9c-481b-8904-fd26b6972d90</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>97f891c4-1c57-4de3-9aa0-293aba320d03</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bfad3ba1-6bce-4fe7-89b4-4eec592318b2</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>97f891c4-1c57-4de3-9aa0-293aba320d03</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

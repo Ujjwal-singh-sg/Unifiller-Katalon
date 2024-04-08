@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_users42 Archived Users</name>
+   <tag></tag>
+   <elementGuidId>3747d5fd-4c39-44ca-b09f-7fcfd5aa97bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div[2]/a[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;archives-users-icon users 42 Archived Users&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4c81f488-efdf-4a9b-a52b-abff1fd692f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>innerWrapper__nKtim</value>
+      <webElementGuid>30eb430f-bc2e-408d-95a5-3f3f5c942065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>users42 Archived Users</value>
+      <webElementGuid>96b22617-9c52-4e06-bc50-ed78c02cb065</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pageWrapper&quot;]/div[@class=&quot;cardsContainer__Bkidd&quot;]/a[@class=&quot;card__bB1NV&quot;]/div[@class=&quot;innerWrapper__nKtim&quot;]</value>
+      <webElementGuid>0f67e9cc-6676-4cb7-a4a9-5fbedb034a3e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div[2]/a[3]/div</value>
+      <webElementGuid>49ce6630-e65f-485f-9d05-a036200fc6a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='customers'])[1]/following::div[1]</value>
+      <webElementGuid>1bcef48e-1b5e-4556-b9e6-b4551254d412</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='machines'])[1]/following::div[5]</value>
+      <webElementGuid>7540c23c-96cf-44ec-8a69-25ec815be5ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div</value>
+      <webElementGuid>e018375d-373d-4a96-80c4-f0e15ab2da69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'users42 Archived Users' or . = 'users42 Archived Users')]</value>
+      <webElementGuid>a0255072-e488-401b-a7e4-a0beb87b15b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

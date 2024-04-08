@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Event Name A-Z</name>
+   <tag></tag>
+   <elementGuidId>006d1128-7235-4f5d-9e0b-e7b563786804</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1bj8geh-singleValue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sort-by']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#sort-by >> internal:text=&quot;Event Name A-Z&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>85cfd475-16c6-463a-85ec-d9f7c66a105e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1bj8geh-singleValue</value>
+      <webElementGuid>d8d290d5-7cf7-4625-a616-01575cd9b8da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Event Name A-Z</value>
+      <webElementGuid>9eabd0cd-9a62-4ddf-ba03-f73916873ebb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sort-by&quot;)/div[@class=&quot;css-1e6mfm5-control&quot;]/div[@class=&quot;css-x5ro1q&quot;]/div[@class=&quot;css-1bj8geh-singleValue&quot;]</value>
+      <webElementGuid>6038436b-573f-4b0a-bd38-11b89dfb11d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sort-by']/div/div/div</value>
+      <webElementGuid>60e08360-0a4a-4aac-8345-1731dcb002b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MACHINE MAINTENANCE EVENTS (12)'])[1]/following::div[8]</value>
+      <webElementGuid>ca16ed6a-d813-4866-be5e-c691bc4eedbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maintenance'])[1]/following::div[12]</value>
+      <webElementGuid>b26a616d-a431-4dc1-9f72-e4fa93edad03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add new event'])[1]/preceding::div[3]</value>
+      <webElementGuid>18d23ca1-6fbf-46fa-a16e-2f60edcea889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='abcd'])[1]/preceding::div[6]</value>
+      <webElementGuid>f723da81-4c61-415f-90cb-207455171e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Event Name A-Z']/parent::*</value>
+      <webElementGuid>3323ff93-4bd7-44dd-a881-0ef6903657a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>cfd9d4cd-479c-4c4a-b27e-3f20680324a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Event Name A-Z' or . = 'Event Name A-Z')]</value>
+      <webElementGuid>df79de7d-7ad1-4b56-8996-bd19041ac998</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Book a Session</name>
+   <tag></tag>
+   <elementGuidId>d241ee94-bbd2-4f09-9521-dbb8ca4bef26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.find-care-taker_hide_mobile__jc6vS.button_btn__FBLjm.button_secondary-btn__pqv7D</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[12]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Book a Session&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c88d986e-68ef-47a8-9e7c-d50353a705ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f20396bd-fd7b-4ade-94a0-73d4330ad588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>find-care-taker_hide_mobile__jc6vS button_btn__FBLjm button_secondary-btn__pqv7D</value>
+      <webElementGuid>35802449-6954-4600-b1da-7ae7357f3b01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Book a Session</value>
+      <webElementGuid>12b4eb61-f393-40d8-9d1c-b2be9432e556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout_layout-wrapper__Voyyt&quot;]/section[@class=&quot;page-wrapper_page-wrapper___qdV9 dashboard_parent-dashboard-page__c_b6e&quot;]/main[@class=&quot;main-content-wrapper_main-content-wrapper__VIkiy&quot;]/section[@class=&quot;dashboard_dashboard-section__Jc7HO&quot;]/div[@class=&quot;dashboard_dashboard-find-upcoming-wrapper__YZkHD&quot;]/section[@class=&quot;find-care-taker_find-care__dT4Xh&quot;]/div[@class=&quot;find-care-taker_find-care-card__M2tXE&quot;]/div[@class=&quot;find-care-taker_submit-container__vpvgT&quot;]/button[@class=&quot;find-care-taker_hide_mobile__jc6vS button_btn__FBLjm button_secondary-btn__pqv7D&quot;]</value>
+      <webElementGuid>376e9bc0-43f1-4527-b4c7-45ecacbf3d41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[12]</value>
+      <webElementGuid>150389eb-a157-473b-af0f-b2e095c6237b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/main/section/div[2]/section/div[2]/div[3]/button</value>
+      <webElementGuid>e2fd4cfe-fe14-432f-9e74-cbb3b2937d59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report a map error'])[1]/following::button[1]</value>
+      <webElementGuid>a747a7b8-20b5-431f-a8b7-8c7bd5b3b7df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terms'])[1]/following::button[1]</value>
+      <webElementGuid>666f5a77-4cb3-4425-bc66-09d4da521517</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[2]/preceding::button[1]</value>
+      <webElementGuid>92a7c9c4-b779-4431-918a-7a2af9dbbc22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Session Requests'])[1]/preceding::button[2]</value>
+      <webElementGuid>ea865155-eb45-4e3d-9d82-92717ad050bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>b03a00f4-9838-4e71-912f-37b0f61e979a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Book a Session' or . = 'Book a Session')]</value>
+      <webElementGuid>60c9519e-0637-4760-b676-a7d23f3c654a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Bookings</name>
+   <tag></tag>
+   <elementGuidId>e81b0443-ee14-4ed0-a061-c7068cdae718</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(2) > div.dashboardpanel_dashboardTabs__n7nSg > div.dashboardpanel_tabContent-wrapper__guD_x > div.secondary-copy.dashboardpanel_tabText__bebgN</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section/div/aside/div/div[2]/nav/a[2]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Bookings&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bd9d6f01-1b19-48ad-98d6-b050bfe2ea64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>secondary-copy dashboardpanel_tabText__bebgN</value>
+      <webElementGuid>62c2fb9a-22bc-4f79-9c3a-6743ff3b6258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bookings</value>
+      <webElementGuid>ea452cde-a895-4229-92a8-280290e6727b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout_layout-wrapper__Voyyt&quot;]/section[@class=&quot;page-wrapper_page-wrapper___qdV9 dashboard_parent-dashboard-page__c_b6e&quot;]/div[@class=&quot;dashboardpanel_container__P1uFG&quot;]/aside[@class=&quot;dashboardpanel_wrapper__n52tv&quot;]/div[@class=&quot;dashboardpanel_logo-section__cUg3A&quot;]/div[@class=&quot;dashboardpanel_tabs-section__9U5YY&quot;]/nav[1]/a[2]/div[@class=&quot;dashboardpanel_dashboardTabs__n7nSg&quot;]/div[@class=&quot;dashboardpanel_tabContent-wrapper__guD_x&quot;]/div[@class=&quot;secondary-copy dashboardpanel_tabText__bebgN&quot;]</value>
+      <webElementGuid>7285918a-41f4-42fc-a429-927ddc85ff49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div/aside/div/div[2]/nav/a[2]/div/div/div[2]</value>
+      <webElementGuid>23a4254e-c483-4126-9682-cd4917120b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[7]</value>
+      <webElementGuid>d347ecc8-afae-4f38-9be5-ba617d9a5b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/preceding::div[5]</value>
+      <webElementGuid>d85a9733-a7e0-44cd-950d-c0cb7eb89894</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Cart'])[1]/preceding::div[12]</value>
+      <webElementGuid>878ef346-c9ff-455b-a4bd-de08c7c08ce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/div/div[2]</value>
+      <webElementGuid>797da571-29bb-4039-aad2-b35c3ec4098d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Bookings' or . = 'Bookings')]</value>
+      <webElementGuid>c3d01394-7b35-4bb4-9cdc-70c340d7a402</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

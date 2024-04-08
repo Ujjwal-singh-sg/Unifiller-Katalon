@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_R</name>
+   <tag></tag>
+   <elementGuidId>4f74f37a-47eb-40cc-bc15-4ea7d533ec58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section/main/section/div[2]/section/section/article/div/div/div[3]/div[2]/div/div/div/div[2]/button[9]/div/table/tr[2]/td[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;April 9, 2024 AVAILABILITY AGE AM PM FD SD 0-2 R R R R 2-3 R R R R 3-5 R R R R BC AS 0-16 R R&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>3029b5d3-b1e2-4a10-a9c1-77674109b3ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>R</value>
+      <webElementGuid>d3c18dc9-aef4-4e66-b27d-86a440d21e44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout_layout-wrapper__Voyyt&quot;]/section[@class=&quot;page-wrapper_page-wrapper___qdV9 dashboard_parent-dashboard-page__c_b6e&quot;]/main[@class=&quot;main-content-wrapper_main-content-wrapper__VIkiy&quot;]/section[@class=&quot;dashboard_dashboard-section__Jc7HO&quot;]/div[@class=&quot;dashboard_dashboard-find-upcoming-wrapper__YZkHD&quot;]/section[@class=&quot;find-care-taker_find-care__dT4Xh&quot;]/section[@class=&quot;modal&quot;]/article[@class=&quot;calendar-modal_container___AkEb modal-animation_modal-container__3bfC_&quot;]/div[@class=&quot;modal-animation_modal-scrollable__gwyes&quot;]/div[@class=&quot;calendar-modal_modal-body__bMNlI modal-body_modal-body___e23Q&quot;]/div[@class=&quot;react-calendar&quot;]/div[@class=&quot;react-calendar__viewContainer&quot;]/div[@class=&quot;react-calendar__month-view&quot;]/div[1]/div[1]/div[@class=&quot;react-calendar__month-view__days&quot;]/button[@class=&quot;react-calendar__tile react-calendar__month-view__days__day&quot;]/div[@class=&quot;calendar-modal_content_wrapper__P_yio&quot;]/table[1]/tr[@class=&quot;calendar-modal_table_row__TIQos&quot;]/td[3]</value>
+      <webElementGuid>4b549269-fdd0-4eb9-a74f-9dd087313b6d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/main/section/div[2]/section/section/article/div/div/div[3]/div[2]/div/div/div/div[2]/button[9]/div/table/tr[2]/td[3]</value>
+      <webElementGuid>f4ef1b96-0a37-4c70-82f1-b03586f231d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[16]/following::td[1]</value>
+      <webElementGuid>80291902-dfb1-462f-a5e9-b8764fb7dcff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SD'])[3]/following::td[3]</value>
+      <webElementGuid>768d8764-dd4c-40a4-a113-fabfdd4434e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[18]/preceding::td[1]</value>
+      <webElementGuid>4b67e689-ef89-4052-9776-d3b5fe1bfa9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[9]/div/table/tr[2]/td[3]</value>
+      <webElementGuid>16226b58-a099-4b0b-b3a0-ab9793d4a99c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'R' or . = 'R')]</value>
+      <webElementGuid>9480e295-0227-4041-a972-afa52003a45b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

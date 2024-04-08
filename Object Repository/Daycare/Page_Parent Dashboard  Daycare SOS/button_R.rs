@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_R</name>
+   <tag></tag>
+   <elementGuidId>c2fce7ee-fc1f-4b83-b93c-509cb70a6f34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section/main/section/div[2]/section/section/article/div/div/div[3]/div[2]/div/div/div/div[2]/button[9]/div/table/tr[4]/td[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>button:nth-child(9) > .calendar-modal_content_wrapper__P_yio > table > tr:nth-child(4) > td:nth-child(3) > .calendar-modal_btn__4H_DU</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>80e41160-3f87-4533-a48d-c6b3873335e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calendar-modal_btn__4H_DU calendar-modal_red__S5L_2</value>
+      <webElementGuid>8e7a48c9-a6a9-4184-bf49-8ff7e997dd05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>R</value>
+      <webElementGuid>67da08f4-9635-4001-9c30-67d621b85854</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout_layout-wrapper__Voyyt&quot;]/section[@class=&quot;page-wrapper_page-wrapper___qdV9 dashboard_parent-dashboard-page__c_b6e&quot;]/main[@class=&quot;main-content-wrapper_main-content-wrapper__VIkiy&quot;]/section[@class=&quot;dashboard_dashboard-section__Jc7HO&quot;]/div[@class=&quot;dashboard_dashboard-find-upcoming-wrapper__YZkHD&quot;]/section[@class=&quot;find-care-taker_find-care__dT4Xh&quot;]/section[@class=&quot;modal&quot;]/article[@class=&quot;calendar-modal_container___AkEb modal-animation_modal-container__3bfC_&quot;]/div[@class=&quot;modal-animation_modal-scrollable__gwyes&quot;]/div[@class=&quot;calendar-modal_modal-body__bMNlI modal-body_modal-body___e23Q&quot;]/div[@class=&quot;react-calendar&quot;]/div[@class=&quot;react-calendar__viewContainer&quot;]/div[@class=&quot;react-calendar__month-view&quot;]/div[1]/div[1]/div[@class=&quot;react-calendar__month-view__days&quot;]/button[@class=&quot;react-calendar__tile react-calendar__tile--active react-calendar__tile--range react-calendar__tile--rangeStart react-calendar__tile--rangeEnd react-calendar__tile--rangeBothEnds react-calendar__month-view__days__day&quot;]/div[@class=&quot;calendar-modal_content_wrapper__P_yio&quot;]/table[1]/tr[@class=&quot;calendar-modal_table_row__TIQos&quot;]/td[3]/button[@class=&quot;calendar-modal_btn__4H_DU calendar-modal_red__S5L_2&quot;]</value>
+      <webElementGuid>3753ee39-d508-4358-a038-b80de706c918</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/main/section/div[2]/section/section/article/div/div/div[3]/div[2]/div/div/div/div[2]/button[9]/div/table/tr[4]/td[3]/button</value>
+      <webElementGuid>4a59ff14-6ac1-4028-8fd0-83518c47b47a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[24]/following::button[1]</value>
+      <webElementGuid>00d44a8d-5af9-4ccb-98d2-471a4f94a2a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[23]/following::button[2]</value>
+      <webElementGuid>0c8c9022-a49c-40a6-a2fb-23515842ef35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[26]/preceding::button[1]</value>
+      <webElementGuid>c5687033-4d36-4bab-bc38-fa43c390aab6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[27]/preceding::button[2]</value>
+      <webElementGuid>b3eadaee-028a-4812-970e-580a9cc28f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[9]/div/table/tr[4]/td[3]/button</value>
+      <webElementGuid>9de2c1de-f3fc-4121-820e-58ae77574d8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'R' or . = 'R')]</value>
+      <webElementGuid>f5ced270-4a52-4504-b70f-8ee4848e1a88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

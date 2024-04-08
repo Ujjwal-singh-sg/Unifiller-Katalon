@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Monday 4th March</name>
+   <tag></tag>
+   <elementGuidId>4e819646-4002-4ccb-8932-401eb0fd0b2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.general-table_table-body-data-content__wF0K_</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/section/main/div/div[2]/div/table/tbody/tr/td/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Monday 4th March&quot;i] >> div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f115b248-9014-4887-bb37-f49163aba3b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>general-table_table-body-data-content__wF0K_</value>
+      <webElementGuid>d68ec4e4-c19b-4f1a-a7fe-0979b987f052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Monday 4th March</value>
+      <webElementGuid>46f9433c-0b96-4469-87fc-81874d8b16d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout_layout-wrapper__Voyyt&quot;]/main[1]/section[@class=&quot;page-wrapper_page-wrapper___qdV9&quot;]/main[@class=&quot;main-content-wrapper_main-content-wrapper__VIkiy&quot;]/div[@class=&quot;parent-bookings_parent-bookings-flow-wrapper__zhZZz&quot;]/div[@class=&quot;past-bookings_past-bookings-wrapper__chYqU&quot;]/div[@class=&quot;general-table_table-wrapper__3m1sV past-bookings_table-wrapper__6kE4m&quot;]/table[@class=&quot;general-table_table__z5NKs past-bookings_table__ngzFG&quot;]/tbody[@class=&quot;general-table_table-body___nSvZ past-bookings_table-body__fx9Qh&quot;]/tr[@class=&quot;general-table_table-body-row__W21xj&quot;]/td[@class=&quot;general-table_table-body-data__s4cA6&quot;]/div[@class=&quot;general-table_table-body-data-content__wF0K_&quot;]</value>
+      <webElementGuid>c679a1e1-6ab3-453a-8828-c3b301405b41</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/section/main/div/div[2]/div/table/tbody/tr/td/div[2]</value>
+      <webElementGuid>012b52ee-74af-4eb1-9b7e-8e9d415c4d1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date of booking'])[2]/following::div[1]</value>
+      <webElementGuid>d348de0c-b139-450a-a205-2093325d33b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cost'])[1]/following::div[4]</value>
+      <webElementGuid>e6ad2666-3e7d-4ccd-a4c3-09186c6aec63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking ID'])[2]/preceding::div[2]</value>
+      <webElementGuid>6280d0b6-5309-44a4-9e3e-41954041d8d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div[2]</value>
+      <webElementGuid>137a4513-c4ac-468e-b830-c808b6636efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Monday 4th March' or . = 'Monday 4th March')]</value>
+      <webElementGuid>52bbdb41-098a-41eb-8e46-cced0c0714e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

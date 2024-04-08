@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Formerly Archived</name>
+   <tag></tag>
+   <elementGuidId>8539b110-07d2-492d-ad6b-e946a09ab7c3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1bj8geh-singleValue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sort-by']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#sort-by >> internal:text=&quot;Formerly Archived&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cf653bc8-c5c9-42b6-a436-aad1212759cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1bj8geh-singleValue</value>
+      <webElementGuid>c55274ba-2eee-4560-9607-261120d9995f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Formerly Archived</value>
+      <webElementGuid>a45ae336-4559-4103-ae01-ecc451d68eda</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sort-by&quot;)/div[@class=&quot;css-1e6mfm5-control&quot;]/div[@class=&quot;css-x5ro1q&quot;]/div[@class=&quot;css-1bj8geh-singleValue&quot;]</value>
+      <webElementGuid>07ba91b1-400a-4ee7-af2f-abc54e1d6302</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sort-by']/div/div/div</value>
+      <webElementGuid>fd14074d-b1af-45cc-9e35-65cf40354d16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived Machines'])[1]/following::div[8]</value>
+      <webElementGuid>7cecfbd0-e541-44f0-9856-7acbe1c45410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[8]</value>
+      <webElementGuid>a5c916ab-a335-48ec-b3e3-8122f8094199</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='by -'])[1]/preceding::div[6]</value>
+      <webElementGuid>237e888a-90b9-42ea-869a-41784ea83a98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Formerly Archived']/parent::*</value>
+      <webElementGuid>e73084ae-a7d0-4029-b482-a0e36b1250bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>211f365e-3621-4b6c-a74d-80b76ddf7fad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Formerly Archived' or . = 'Formerly Archived')]</value>
+      <webElementGuid>d0ab711b-6567-4ef9-a9b8-8ee2992d698d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

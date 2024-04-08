@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Past Bookings</name>
+   <tag></tag>
+   <elementGuidId>890cdfb1-2064-45d3-9a9b-3bf43eb3db99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/main/section/main/div/nav/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Past Bookings&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>350836b9-7d72-4b6a-820c-6d1fe1004c40</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>parent-bookings_nav-item-links__U8QPV link_link__sIB5B</value>
+      <webElementGuid>6da3bc27-f683-4854-a6b5-2d04157cd568</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>9fc1a906-f95a-4ffe-86d1-b17774a5dd97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/parent/bookings/past</value>
+      <webElementGuid>5482bc7c-420c-44b5-9cb3-d97384bd7456</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Past Bookings</value>
+      <webElementGuid>89d08330-cfc8-48a2-a465-3f5b215b4d63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout_layout-wrapper__Voyyt&quot;]/main[1]/section[@class=&quot;page-wrapper_page-wrapper___qdV9&quot;]/main[@class=&quot;main-content-wrapper_main-content-wrapper__VIkiy&quot;]/div[@class=&quot;parent-bookings_parent-bookings-flow-wrapper__zhZZz&quot;]/nav[@class=&quot;parent-bookings_nav___2tUo&quot;]/ul[@class=&quot;parent-bookings_nav-items-wrapper__jZvsW&quot;]/li[@class=&quot;parent-bookings_nav-item__4erT2&quot;]/a[@class=&quot;parent-bookings_nav-item-links__U8QPV link_link__sIB5B&quot;]</value>
+      <webElementGuid>aef45dcc-5b37-4623-8458-6dcfd2399391</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/main/section/main/div/nav/ul/li[2]/a</value>
+      <webElementGuid>5a358c75-3115-457e-9c0b-863f44213b41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Past Bookings')]</value>
+      <webElementGuid>870bc699-7eaf-464b-a997-f13109c29491</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upcoming Bookings'])[1]/following::a[1]</value>
+      <webElementGuid>bc61147c-2594-461a-8ad0-916f69f3fe26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your bookings'])[1]/following::a[2]</value>
+      <webElementGuid>2f131798-efac-4b06-88e3-d82deca444ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bookings occurring within 48 hours are unable to be cancelled.'])[1]/preceding::a[1]</value>
+      <webElementGuid>555ad7cf-9d37-4b75-bc91-ba878e6b6d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter by'])[1]/preceding::a[1]</value>
+      <webElementGuid>7953f878-6add-4517-99b6-4f833dad19f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/parent/bookings/past')]</value>
+      <webElementGuid>7c3f8806-6eb4-4d87-bf88-3c7b4418b9ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>127f4441-3003-4f6d-af03-3be0744c63f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/parent/bookings/past' and (text() = 'Past Bookings' or . = 'Past Bookings')]</value>
+      <webElementGuid>e22d966f-0356-4c7e-822d-c1a60ac812ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

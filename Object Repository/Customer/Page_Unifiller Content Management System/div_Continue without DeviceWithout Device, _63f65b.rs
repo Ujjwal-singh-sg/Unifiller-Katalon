@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Continue without DeviceWithout Device, _63f65b</name>
+   <tag></tag>
+   <elementGuidId>07f3db6a-6363-4a77-88d5-77fdc1b89efa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/form/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.topSection__FeE6f > div:nth-child(3)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1e563132-a973-4a85-b119-fd70e489f4ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tcdBtn__w2lhr </value>
+      <webElementGuid>7f2357b1-943d-42a7-8c73-d1f858ebc33d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue without +DeviceWithout +Device, the customer can still access manuals, instructional videos, and more. A +Device can always be added later.</value>
+      <webElementGuid>1af100ef-9934-4209-b248-5c7d39fde3e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pageWrapper&quot;]/div[@class=&quot;addWrapper__fL80K&quot;]/form[1]/div[@class=&quot;tcdWrapper__P9NRs&quot;]/div[@class=&quot;topSection__FeE6f&quot;]/div[@class=&quot;tcdBtn__w2lhr&quot;]</value>
+      <webElementGuid>e0b64891-a5bd-4d15-9a2c-b6b4c2ebfcf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/form/div/div/div[3]</value>
+      <webElementGuid>10b73914-233b-42d1-ace6-ef64f3b02eba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Error'])[1]/following::div[1]</value>
+      <webElementGuid>46b68b66-0cde-44e7-8ca9-61e88b1e0f0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::div[4]</value>
+      <webElementGuid>0d15dcdc-ebf6-469c-9ccc-198c8c2321b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]</value>
+      <webElementGuid>821cea6d-3341-4fa8-a4c5-6b351c2a731e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Continue without +DeviceWithout +Device, the customer can still access manuals, instructional videos, and more. A +Device can always be added later.' or . = 'Continue without +DeviceWithout +Device, the customer can still access manuals, instructional videos, and more. A +Device can always be added later.')]</value>
+      <webElementGuid>137a478e-102e-4655-9f1d-255a49ab6d25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

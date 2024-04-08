@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Googie</name>
+   <tag></tag>
+   <elementGuidId>3edfe770-174d-4ac6-898a-246b1c7fdfa7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.select-child-chip_red__N2y58.select-child-chip_chip-wrapper__kU51i.select-child-chip_rg__Bdfkr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section/main/section/div[2]/section/section/article/div/div/section/article/div/div/div[2]/div[2]/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Googie&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7bf0806d-57c4-44c5-97f9-fc387bfc6e9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>42f860af-a50b-40c2-b41d-0ffaf6762d06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-child-chip_red__N2y58 select-child-chip_chip-wrapper__kU51i select-child-chip_rg__Bdfkr</value>
+      <webElementGuid>f0247750-e0a6-458d-8287-ca296d76cd86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Googie</value>
+      <webElementGuid>90dab5ac-f7a7-4e5d-888e-993385a2a512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout_layout-wrapper__Voyyt&quot;]/section[@class=&quot;page-wrapper_page-wrapper___qdV9 dashboard_parent-dashboard-page__c_b6e&quot;]/main[@class=&quot;main-content-wrapper_main-content-wrapper__VIkiy&quot;]/section[@class=&quot;dashboard_dashboard-section__Jc7HO&quot;]/div[@class=&quot;dashboard_dashboard-find-upcoming-wrapper__YZkHD&quot;]/section[@class=&quot;find-care-taker_find-care__dT4Xh&quot;]/section[@class=&quot;modal&quot;]/article[@class=&quot;calendar-modal_container___AkEb modal-animation_modal-container__3bfC_&quot;]/div[@class=&quot;modal-animation_modal-scrollable__gwyes&quot;]/div[@class=&quot;calendar-modal_modal-body__bMNlI modal-body_modal-body___e23Q&quot;]/section[@class=&quot;modal&quot;]/article[@class=&quot;modal-animation_modal-container__3bfC_&quot;]/div[@class=&quot;modal-animation_modal-scrollable__gwyes&quot;]/div[@class=&quot;requestSpace-modal_modal_wrapper__ZniOh&quot;]/div[@class=&quot;modal-body_modal-body___e23Q&quot;]/div[@class=&quot;requestSpace-modal_child-names-container__ZgyLV&quot;]/div[@class=&quot;requestSpace-modal_child-names-wrapper__e__0e&quot;]/div[@class=&quot;select-child-chip_red__N2y58 select-child-chip_chip-wrapper__kU51i select-child-chip_rg__Bdfkr&quot;]</value>
+      <webElementGuid>4ab46f7a-1bf1-468d-a02d-8dce5e9f55aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/main/section/div[2]/section/section/article/div/div/section/article/div/div/div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>f281ddd0-d771-4581-a692-a5f5fab06003</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sandeep'])[1]/following::div[1]</value>
+      <webElementGuid>428f5562-ebf7-4384-a197-6f5d4d1832f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='= Already in Basket'])[1]/following::div[4]</value>
+      <webElementGuid>de0f8e51-cce3-4791-b2f6-a9d8bea734f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Child Jnr one'])[1]/preceding::div[1]</value>
+      <webElementGuid>6a328338-7974-4b8d-9893-c8df17e3290e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Child Jnr three'])[1]/preceding::div[2]</value>
+      <webElementGuid>049ea8a3-85db-4411-949e-1a246be7264e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]</value>
+      <webElementGuid>1debf407-054b-4878-8eb9-54aa4dd4ea45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Googie' or . = 'Googie')]</value>
+      <webElementGuid>7453f5ba-2fe8-43c3-b821-803f9316b2f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

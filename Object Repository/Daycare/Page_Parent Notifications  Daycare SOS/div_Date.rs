@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Date</name>
+   <tag></tag>
+   <elementGuidId>6d76bb0c-d92a-465f-8f09-d57592b27ee4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.general-table_table-head-title__NaQSG</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section/main/section/div[3]/table/thead/tr/th/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;Toggle SortBy&quot;i] >> internal:text=&quot;Date&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4d90301f-a9d3-4756-99cb-724b5c82bf0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>general-table_table-head-title__NaQSG</value>
+      <webElementGuid>03d076c2-6a78-40a9-b538-b9600306d5a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Date</value>
+      <webElementGuid>1e49a035-9e79-4c1f-9715-ceb30867266b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout_layout-wrapper__Voyyt&quot;]/section[@class=&quot;page-wrapper_page-wrapper___qdV9&quot;]/main[@class=&quot;main-content-wrapper_main-content-wrapper__VIkiy&quot;]/section[@class=&quot;notifications-tab_notifications-section__mzg8i&quot;]/div[@class=&quot;general-table_table-wrapper__3m1sV notifications-tab_table-wrapper__KKIqy&quot;]/table[@class=&quot;general-table_table__z5NKs notifications-tab_table__xbMG8&quot;]/thead[@class=&quot;general-table_table-head__j_dx8&quot;]/tr[@class=&quot;general-table_table-head-row__Kz6Zu&quot;]/th[1]/div[@class=&quot;general-table_table-head-row-content__MSfIO&quot;]/div[@class=&quot;general-table_table-head-title__NaQSG&quot;]</value>
+      <webElementGuid>8873712f-f22c-4817-8f58-418069793867</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/main/section/div[3]/table/thead/tr/th/div/div</value>
+      <webElementGuid>081bbf83-2647-40e2-b658-d6d9a5ff0fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter by'])[1]/following::div[7]</value>
+      <webElementGuid>d6d240ba-8774-43b5-9681-3d26f7fc3f67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[2]/following::div[12]</value>
+      <webElementGuid>10f505fc-38ce-4a1d-9273-1577d9898f4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Heading'])[1]/preceding::div[3]</value>
+      <webElementGuid>c0306db8-0d82-4ddb-91a4-6e073411c0cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/preceding::div[5]</value>
+      <webElementGuid>2cf9a593-f013-4987-a30c-d8c04c1914b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/div/div</value>
+      <webElementGuid>d1627cf4-6cc4-43af-be61-e5dd5865085b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Date' or . = 'Date')]</value>
+      <webElementGuid>f4f9695b-4f7e-4f02-8249-9b86f535ccab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

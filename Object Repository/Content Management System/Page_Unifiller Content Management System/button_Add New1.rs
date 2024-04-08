@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add New1</name>
+   <tag></tag>
+   <elementGuidId>8be62503-9748-41d8-871d-f0538252f695</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.subCategoryTabWrapper__XbXUh > div.buttonWrapper__Z2lZz > button.btn__Yg5tI.btn-outlined-medium__xge7e.buttonStyle__rhQgg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;add-new Add New&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a156c0d3-1a1e-4b0b-8867-af7baa4297ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c9c4c931-58b7-41cb-afe6-bb77ec4f223b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn__Yg5tI btn-outlined-medium__xge7e buttonStyle__rhQgg</value>
+      <webElementGuid>d903cfb9-b5f7-4223-8387-17cbd7af350c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add New </value>
+      <webElementGuid>435f82d4-ffca-4195-a5f7-c50e25380759</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pageWrapper&quot;]/div[@class=&quot;containtManagementDetailsWrapper__VIyoK&quot;]/div[@class=&quot;subCategoriesWrapper__BciwA&quot;]/div[1]/div[@class=&quot;subCategoryTabWrapper__XbXUh&quot;]/div[@class=&quot;buttonWrapper__Z2lZz&quot;]/button[@class=&quot;btn__Yg5tI btn-outlined-medium__xge7e buttonStyle__rhQgg&quot;]</value>
+      <webElementGuid>c3cc4e01-b24e-46e7-b34b-87266f04eeaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>539158b1-a2cf-4c25-8be8-0ee5842e7e56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div[2]/div/div/div[3]/button</value>
+      <webElementGuid>f94ef237-1f72-4fbb-9016-b61a50e23274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUB-CATEGORIES (0)'])[1]/following::button[1]</value>
+      <webElementGuid>a6741217-e6ea-4db4-b0d4-80b0f83b767f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add New'])[1]/following::button[1]</value>
+      <webElementGuid>e1dba294-c56f-49e7-b822-99339292a8e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Information'])[1]/preceding::button[1]</value>
+      <webElementGuid>c801f60a-259f-4c0f-988e-fe3a59eca7cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>03efd6c6-2206-4c14-be90-c75e3191ed95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Add New ' or . = 'Add New ')]</value>
+      <webElementGuid>3801766a-bd34-48e0-bb4a-53605c8fdfdb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Settings</name>
+   <tag></tag>
+   <elementGuidId>6c3de5af-444c-4791-89b9-f33877eaf2fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a:nth-of-type(5) > div.dashboardpanel_dashboardTabs__n7nSg > div.dashboardpanel_tabContent-wrapper__guD_x > div.secondary-copy.dashboardpanel_tabText__bebgN</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section/div/aside/div/div[2]/nav/a[5]/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Settings&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fe04d2ed-4ace-41e9-9d69-ae0e412da39d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>secondary-copy dashboardpanel_tabText__bebgN</value>
+      <webElementGuid>1dda8861-a5b2-422c-9dd7-1fe1ca370d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Settings</value>
+      <webElementGuid>9d31eae9-e6bb-4eb2-a0e0-2a713a024a59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout_layout-wrapper__Voyyt&quot;]/section[@class=&quot;page-wrapper_page-wrapper___qdV9 cart_parent-dashboard-page__5PAwp&quot;]/div[@class=&quot;dashboardpanel_container__P1uFG&quot;]/aside[@class=&quot;dashboardpanel_wrapper__n52tv&quot;]/div[@class=&quot;dashboardpanel_logo-section__cUg3A&quot;]/div[@class=&quot;dashboardpanel_tabs-section__9U5YY&quot;]/nav[1]/a[5]/div[@class=&quot;dashboardpanel_dashboardTabs__n7nSg&quot;]/div[@class=&quot;dashboardpanel_tabContent-wrapper__guD_x&quot;]/div[@class=&quot;secondary-copy dashboardpanel_tabText__bebgN&quot;]</value>
+      <webElementGuid>17b1cdd6-6aad-48e5-8bcc-2cd578a1d149</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/div/aside/div/div[2]/nav/a[5]/div/div/div[2]</value>
+      <webElementGuid>4c3278b3-cbae-4bb7-bbd2-e26282a56914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Cart'])[1]/following::div[8]</value>
+      <webElementGuid>adfa07de-3ee7-4a72-bc08-f56b5bc7c1f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::div[15]</value>
+      <webElementGuid>703503b2-a273-49d1-9ce9-e7a85f12cc28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/preceding::div[7]</value>
+      <webElementGuid>efeb357e-1130-4bb0-97bc-86c525621278</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Cart'])[2]/preceding::div[10]</value>
+      <webElementGuid>d632b985-f7a4-47e3-a354-67b048789904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/div/div/div[2]</value>
+      <webElementGuid>bbde8e82-1f6b-4199-ae7d-9575ffc47fb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Settings' or . = 'Settings')]</value>
+      <webElementGuid>3ba7f3d3-2555-465e-bb0a-bb511ab7021e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

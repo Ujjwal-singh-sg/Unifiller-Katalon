@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Version Decremental</name>
+   <tag></tag>
+   <elementGuidId>7cdaa99c-a3dc-4e75-93d0-c86b897f95cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1bj8geh-singleValue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sort-by']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#sort-by >> internal:text=&quot;Version Decremental&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>26826f93-4d4a-431a-88b8-25cb0607c1f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1bj8geh-singleValue</value>
+      <webElementGuid>b74e93f4-6974-4a50-84d2-d4e015b7b86a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Version Decremental</value>
+      <webElementGuid>062487c4-b8c9-4765-a74b-a08912a66f6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sort-by&quot;)/div[@class=&quot;css-1e6mfm5-control&quot;]/div[@class=&quot;css-x5ro1q&quot;]/div[@class=&quot;css-1bj8geh-singleValue&quot;]</value>
+      <webElementGuid>f30b110f-0df8-4093-b296-c93185b43bcf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sort-by']/div/div/div</value>
+      <webElementGuid>8dd17277-389c-4608-9dab-422fbf6be6ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reset Filters'])[1]/following::div[8]</value>
+      <webElementGuid>39f256c3-0183-442c-88ee-6581f7c5c57a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a sub-category'])[1]/following::div[12]</value>
+      <webElementGuid>5067368f-35d6-4980-81e6-b90e8eb20fa0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='new subcat • V70'])[1]/preceding::div[5]</value>
+      <webElementGuid>1d476224-9951-4467-8a73-bbd60f413368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='subcat244 • v24'])[1]/preceding::div[9]</value>
+      <webElementGuid>1704767a-2f23-4df6-90f0-65177929c031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Version Decremental']/parent::*</value>
+      <webElementGuid>a855a998-d105-4340-9685-513219896739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>670e2d08-d0a8-4f0d-ac04-7c51e6bf1aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Version Decremental' or . = 'Version Decremental')]</value>
+      <webElementGuid>cca0f246-644f-4970-ab72-cfdb82e08fe0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

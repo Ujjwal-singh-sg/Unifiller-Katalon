@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Alphabetically Z-A_1</name>
+   <tag></tag>
+   <elementGuidId>3e97d2b0-bc61-48aa-8eba-9e231c7a7e1e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1bj8geh-singleValue</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sort-by']/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#sort-by >> internal:text=&quot;Alphabetically Z-A&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0d81346f-b9d5-49f3-9e1d-169da9401f61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-1bj8geh-singleValue</value>
+      <webElementGuid>59ddfd7b-f730-407b-b23d-5035e02b52ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alphabetically Z-A</value>
+      <webElementGuid>23a72698-787e-4332-8559-ca0014115999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sort-by&quot;)/div[@class=&quot;css-1e6mfm5-control&quot;]/div[@class=&quot;css-x5ro1q&quot;]/div[@class=&quot;css-1bj8geh-singleValue&quot;]</value>
+      <webElementGuid>44ee4c68-32a5-4722-b747-dc22a02d25c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sort-by']/div/div/div</value>
+      <webElementGuid>1343c9c7-f232-4d60-a658-ab202bb41d5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Content Management'])[2]/following::div[8]</value>
+      <webElementGuid>991db6ed-6c0b-4b75-953f-b2f37b087d90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/following::div[11]</value>
+      <webElementGuid>efe39533-faba-47ff-a6c4-f429f5917368</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Whitney Frami'])[1]/preceding::div[5]</value>
+      <webElementGuid>3b622ca3-eece-4724-a49c-8fef2bd78914</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vanessa Zieme'])[1]/preceding::div[9]</value>
+      <webElementGuid>d804d430-0804-487e-8240-4cbd5b272ef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alphabetically Z-A']/parent::*</value>
+      <webElementGuid>75e0f652-c1d4-449a-8cac-1a42a056caaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div/div/div/div/div</value>
+      <webElementGuid>f38f5324-1209-4453-99cd-6b7c2c5bada3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Alphabetically Z-A' or . = 'Alphabetically Z-A')]</value>
+      <webElementGuid>0401a18f-1304-4b08-bf8d-296a0c7862ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

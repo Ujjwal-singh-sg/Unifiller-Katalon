@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_R_calendar-modal_cross-icon__seXQK icon_d0839d</name>
+   <tag></tag>
+   <elementGuidId>639d85f2-3f36-4de7-88ab-1ab10c610251</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.calendar-modal_cross-icon__seXQK.icon_icon__aMMd9.icon_blue__KKC4F</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/section/main/section/div[2]/section/section/article/div/div/div[4]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.calendar-modal_cross-icon__seXQK</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>23b18bbf-4312-4778-84bc-22f2c9cbc57d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>calendar-modal_cross-icon__seXQK icon_icon__aMMd9 icon_blue__KKC4F</value>
+      <webElementGuid>4f1d7163-4f8e-42ef-9920-3c35168bf859</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;layout_layout-wrapper__Voyyt&quot;]/section[@class=&quot;page-wrapper_page-wrapper___qdV9 dashboard_parent-dashboard-page__c_b6e&quot;]/main[@class=&quot;main-content-wrapper_main-content-wrapper__VIkiy&quot;]/section[@class=&quot;dashboard_dashboard-section__Jc7HO&quot;]/div[@class=&quot;dashboard_dashboard-find-upcoming-wrapper__YZkHD&quot;]/section[@class=&quot;find-care-taker_find-care__dT4Xh&quot;]/section[@class=&quot;modal&quot;]/article[@class=&quot;calendar-modal_container___AkEb modal-animation_modal-container__3bfC_&quot;]/div[@class=&quot;modal-animation_modal-scrollable__gwyes&quot;]/div[@class=&quot;calendar-modal_modal-body__bMNlI modal-body_modal-body___e23Q&quot;]/div[@class=&quot;calendar-modal_cross-wrapper__qft0B&quot;]/div[@class=&quot;icon_icon-wrapper__NbWSI&quot;]/div[@class=&quot;calendar-modal_cross-icon__seXQK icon_icon__aMMd9 icon_blue__KKC4F&quot;]</value>
+      <webElementGuid>2d19a85a-f976-4388-a00a-4cb03da8c574</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/section/main/section/div[2]/section/section/article/div/div/div[4]/div/div</value>
+      <webElementGuid>f4fceb91-8084-43a8-85c6-37dd255a0a79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[245]/following::div[3]</value>
+      <webElementGuid>82d6604f-e4af-45f1-a431-be3b7e5e0204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='R'])[244]/following::div[3]</value>
+      <webElementGuid>2e2f903e-7b64-4508-af26-189b0fba4a06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Additional Session Requests'])[1]/preceding::div[1]</value>
+      <webElementGuid>aa0b22c8-4e5c-4582-a97d-33f1669b3b65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Googie'])[1]/preceding::div[1]</value>
+      <webElementGuid>24142af0-01f4-4bfe-bacb-cea09422bd58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//article/div/div/div[4]/div/div</value>
+      <webElementGuid>07366e60-0356-4cdf-addd-61da6169b95c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

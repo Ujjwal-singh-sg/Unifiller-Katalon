@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_machine(124 Categories  13 Sub-Categori_baa220</name>
+   <tag></tag>
+   <elementGuidId>59468184-2412-4156-b73f-8650fa6ab769</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.innerWrapper__nKtim</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollableDiv']/div/div/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^!@#\$machine\*\(\?124 Categories • 13 Sub-Categories • 22 Versions$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b706cc79-aa00-49b9-86b9-21d34c5fc7a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>innerWrapper__nKtim</value>
+      <webElementGuid>67597ba4-f24f-4e65-9ab7-323be1e027e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>!@#$machine*(?124 Categories • 13 Sub-Categories • 22 Versions</value>
+      <webElementGuid>dd9a2d83-d2f5-4196-b2e8-ccf0f782f1cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollableDiv&quot;)/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component cardsContainer__umG0f&quot;]/span[@class=&quot;card__UE6m0&quot;]/div[@class=&quot;innerWrapper__nKtim&quot;]</value>
+      <webElementGuid>80d16913-2722-4743-9225-b734fc86fd2f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollableDiv']/div/div/span/div</value>
+      <webElementGuid>297b99d3-4a4f-46b1-80e3-6e5bd97441f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alphabetically A-Z'])[1]/following::div[6]</value>
+      <webElementGuid>a3d160bb-d3a8-47df-ae6f-6dbb2100089c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Content Management'])[2]/following::div[14]</value>
+      <webElementGuid>2ec209c8-14e5-456c-8d5b-2034adb39677</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='!@#$machine*(asa?12'])[1]/preceding::div[6]</value>
+      <webElementGuid>18ab8647-92d4-4b20-8bf3-75998f0d04ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>a6939934-719e-4a40-8717-020ba21583eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '!@#$machine*(?124 Categories • 13 Sub-Categories • 22 Versions' or . = '!@#$machine*(?124 Categories • 13 Sub-Categories • 22 Versions')]</value>
+      <webElementGuid>062b60d9-911a-42c6-9437-b170bf20c236</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

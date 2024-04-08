@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add New</name>
+   <tag></tag>
+   <elementGuidId>a45d4078-b144-4b66-b54e-a1eea64d16fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/div/div/div/div[4]/button/div</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Add New' or . = 'Add New')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.buttonContent__rn3hw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>CSS</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;add-new Add New&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3a4a9813-9d20-4fb7-a7a0-f0b6fdaa8ab7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>buttonContent__rn3hw</value>
+      <webElementGuid>07950a5c-a68b-44e3-8c48-23a70355203f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add New</value>
+      <webElementGuid>501d5aed-5b99-4f79-a19b-da18ffc44f76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pageWrapper&quot;]/div[@class=&quot;containtManagementDetailsWrapper__VIyoK&quot;]/div[1]/div[@class=&quot;categoryTabWrapper__mhpPm&quot;]/div[@class=&quot;buttonWrapper__Z2lZz&quot;]/button[@class=&quot;btn__Yg5tI btn-outlined-medium__xge7e buttonStyle__rhQgg&quot;]/div[@class=&quot;buttonContent__rn3hw&quot;]</value>
+      <webElementGuid>e5e71f66-52d1-43ab-929a-7bf07c5ed842</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/div/div/div/div[4]/button/div</value>
+      <webElementGuid>58bca87e-9f24-400a-a9ac-a2b8360a478f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ncndc'])[1]/following::div[2]</value>
+      <webElementGuid>5446f3c2-6b5c-4395-bcc0-64824cde4c4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ccssc'])[1]/following::div[3]</value>
+      <webElementGuid>fdf15afc-c1fa-4c1c-9718-2304b6d48783</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUB-CATEGORIES (2)'])[1]/preceding::div[1]</value>
+      <webElementGuid>76a5f0e2-95be-4243-95ca-06bccd5476e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>c3768315-0600-473b-8bfb-3f03a35b0aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add New' or . = 'Add New')]</value>
+      <webElementGuid>b1854361-66f9-403b-8ae8-5c86eb7293ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

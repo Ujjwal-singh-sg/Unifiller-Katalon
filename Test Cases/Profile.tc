@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Profile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ca8fddd0-2fb2-473b-be3a-bd1ef2a643d1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a7f8a3ad-e4a3-4dd7-b678-3676bfd02928</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'//Users//ujjwalsingh//Downloads//abc.jpg'</defaultValue>
+      <description></description>
+      <id>a7f8a3ad-e4a3-4dd7-b678-3676bfd02928</id>
+      <masked>false</masked>
+      <name>file</name>
+   </variable>
+</TestCaseEntity>

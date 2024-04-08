@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Archived on Apr 07, 2024by hNLf Singh N_d8aebf</name>
+   <tag></tag>
+   <elementGuidId>c587309d-c855-4f89-851d-585ff4136a59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.innerWrapper__nKtim</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scrollableDiv']/div/div/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#scrollableDiv div >> internal:has-text=&quot;Archived on Apr 07, 2024by hNLf Singh New Subcat • V123MultiStation 2023 • New C&quot;i >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>09d514e1-0b5b-407a-8c4d-0d26c2f3de2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>innerWrapper__nKtim</value>
+      <webElementGuid>17968326-9744-451e-92df-8a34a1bf78ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Archived on Apr 07, 2024by hNLf Singh New Subcat • V123MultiStation 2023 • New Cat</value>
+      <webElementGuid>84007be9-cdc7-4a16-b894-04cf08914519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scrollableDiv&quot;)/div[@class=&quot;infinite-scroll-component__outerdiv&quot;]/div[@class=&quot;infinite-scroll-component cardsContainer__umG0f&quot;]/span[@class=&quot;card__UE6m0&quot;]/div[@class=&quot;innerWrapper__nKtim&quot;]</value>
+      <webElementGuid>01a9b884-e98d-46ba-b549-b42a3bb81c7f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scrollableDiv']/div/div/span/div</value>
+      <webElementGuid>caf78083-c339-4da3-a648-53b871bd1e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Recently Archived'])[1]/following::div[6]</value>
+      <webElementGuid>9cc32679-c03a-402e-bc16-88147df8ddc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archived Machines'])[1]/following::div[14]</value>
+      <webElementGuid>63dd6cfe-4961-4aad-b8d0-7a90447a6f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>62626af7-597c-4927-aad8-39508ae79842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Archived on Apr 07, 2024by hNLf Singh New Subcat • V123MultiStation 2023 • New Cat' or . = 'Archived on Apr 07, 2024by hNLf Singh New Subcat • V123MultiStation 2023 • New Cat')]</value>
+      <webElementGuid>0a785df5-3b29-419f-9f2f-450805ff6ce3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
