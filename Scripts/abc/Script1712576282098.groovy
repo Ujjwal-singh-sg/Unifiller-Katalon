@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.google.com')
+WebUI.navigateToUrl('https://www.flipkart.com')
 
 WebUI.closeBrowser()
 
